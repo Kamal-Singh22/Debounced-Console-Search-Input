@@ -7,4 +7,4 @@ Each time they enter a line, the debounce timer is reset.
 
 If 500 ms pass without new input, the performSearch() method is called.
 
-This simulates the "debounced" effect like in a web application.
+This simulates the "debounced" effect like in a web application.....
